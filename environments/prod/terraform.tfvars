@@ -1,5 +1,5 @@
 # Project settings
-project_name = "rag-app30-harshini"
+project_name = "rag-app62-harshini"
 stage        = "prod"
 aws_region   = "us-east-1"
 
@@ -8,7 +8,7 @@ lambda_memory_size = 512
 lambda_timeout     = 150
 
 # GitHub repository settings
-github_repo        = "Harshin1V/rag-app"
+github_repo        = "Harshin1V/rag-app-on-aws"
 github_branch      = "main"
 
 # Monitoring
