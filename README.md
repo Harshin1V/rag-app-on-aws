@@ -2,7 +2,7 @@
 
 Terraform-based **Infrastructure as Code (IaC)** to deploy a complete AWS backend for a Retrieval-Augmented Generation (RAG) application. It integrates with Google’s free-tier Gemini Pro and Embedding models for AI powered document querying and includes a Streamlit UI with token-based authentication for interacting with the app.
 
-👉 Related UI: [RAG UI (Streamlit Frontend)](https://github.com/Harshin1V/rag-app/tree/main/rag_ui)  A Streamlit-based frontend application designed to interact with the backend infrastructure deployed by this project. It's located within the `rag_ui/` directory of this repository.
+👉 Related UI: [RAG UI (Streamlit Frontend)](https://github.com/Harshin1V/rag-app-on-aws/tree/main/rag_ui)  A Streamlit-based frontend application designed to interact with the backend infrastructure deployed by this project. It's located within the `rag_ui/` directory of this repository.
 
 ---
 
